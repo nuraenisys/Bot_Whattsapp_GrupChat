@@ -1,0 +1,11 @@
+{
+  "name": "bot-wa",
+  "version": "1.0.0",
+  "main": "botINST2.js",
+  "scripts": {
+    "start": "node botINST2.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0"
+  }
+}
